@@ -54,6 +54,8 @@ terraform-config/
 │   ├── variable.tf      # Module-level variables
 │   └── vpc.tf           # Networking resources
 
+```
+
 ---
 
 ## ⚡ Prerequisites
