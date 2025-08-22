@@ -36,6 +36,8 @@ The infrastructure is composed of the following components:
 
 ## 📂 Project Structure
 
+```bash
+
 terraform-config/
 ├── main.tf              # Root module, calls submodules
 ├── variables.tf         # Input variable definitions
