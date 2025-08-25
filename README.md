@@ -111,7 +111,7 @@ After `terraform apply`, the following outputs may be provided (check `outputs.t
 ---
 
 ## 🧑‍💻 Author
-DevOps Engineer — Subscription Management Project
+DevOps Engineer(toluxfash) — Subscription Management Project
 
 ## 🏗️ Architecture Diagram
 
